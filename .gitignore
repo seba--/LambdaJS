@@ -6,3 +6,5 @@
 *.glob
 *.v.d
 coq/Makefile
+.stack-work/
+*.cabal

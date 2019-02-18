@@ -1,4 +1,4 @@
-module Main where
+module LambdaJS where
 
 import Language.LambdaJS.Parser (parseBinds)
 import System.Console.GetOpt
